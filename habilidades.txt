@@ -1,7 +1,9 @@
-Unix
+
+- Unix
 - Bash
 - Git
 - HTML
 - CSS
 - Soft skills
 - Conseguir fazer projetos Tops!!
+
