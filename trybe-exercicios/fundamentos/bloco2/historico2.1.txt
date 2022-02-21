@@ -1,0 +1,165 @@
+   28  nvm install 14
+   29  export NVM_DIR="$HOME/.nvm"
+   30  nvm install 14
+   31  ls
+   32  cd home
+   33  ls -a
+   34  nvm version
+   35  cd .nvm
+   36  ls -la
+   37  chmod 777 .nvm
+   38  cd .nvm
+   39  ls -l
+   40  l- -la
+   41  ls -la
+   42  ls -l/home/rannerbarbosa/.cache
+   43  ls -l /home/rannerbarbosa/.cache
+   44  nvm install 14
+   45  sudo nvm install 14
+   46  command -v nvm
+   47  nvm ls
+   48  cd ..
+   49  nvm ls
+   50  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+   51  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+   52  nvm install 14
+   53  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+   54  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+   55  nvm install 14
+   56  source ~/.bashrc
+   57  command -v nvm
+   58  source ~/.zshrc
+   59  sudo apt update && sudo apt upgrade
+   60  sudo apt install nodejs
+   61  sudo apt install npm
+   62  nodejs -v
+   63  nvm install 14
+   64  curl -fsSL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+   65  nodejs -v
+   66  sudo apt-get install -y nodejs
+   67  nodejs -v
+   68  command -v node
+   69  node -v
+   70  sudo apt-get install git-all
+   71  git config --global user.name "rannerdepaula"
+   72  git config --global user.email rannerdepaula@gmail.com
+   73  git config --global core.editor "code --wait"
+   74  code .gitconfig
+   75  git --version
+   76  git -version
+   77  git --version
+   78  nodejs --version
+   79  nodejs -version
+   80  node -v
+   81  git config --list
+   82  ssh-keygen -t rsa -b 4096 -C "rannerdepaula@gmail.com"
+   83  eval "$(ssh-agent -s)"
+   84  ssh-add ~/.ssh/id_rsa
+   85  cd .ssh
+   86  ls
+   87  eval "$(ssh-agent -s)"
+   88  ssh-add id_rsa
+   89  sando o comando a seguir:
+   90  sudo apt-get install xclip
+   91  xclip -sel clip < ~/.ssh/id_rsa.pub
+   92  cat id_rsa.pub
+   93  clear
+   94  ls
+   95  cd ..
+   96  ls
+   97  ls -a
+   98  cd Documentos/
+   99  mkdir trybe-exercicios
+  100  mkdir fundamentos
+  101  mkdir bloco2
+  102  mv bloco2/ fundamentos
+  103  ls
+  104  mv fundamentos/ trybe-exercicios/
+  105  ls
+  106  cd trybe-exercicios/
+  107  ls
+  108  cd fundamentos/
+  109  ls
+  110  cd bloco2/
+  111  git clone https://github.com/Ranner106/Fundamentos-do-Desenvolvimento-Web
+  112  ls
+  113  ls -a
+  114  cd Fundamentos-do-Desenvolvimento-Web/
+  115  ls
+  116  git status
+  117  cd ..
+  118  ls
+  119  cd Documentos/
+  120  ls
+  121  cd trybe-exercicios/
+  122  ls
+  123  mv fundamentos/ .. .. /Fundamentos-do-Desenvolvimento-Web
+  124  cd ..
+  125  mv trybe-exercicios/ .. Fundamentos-do-Desenvolvimento_web
+  126  mv trybe-exercicios/ .. /Fundamentos-do-Desenvolvimento_web
+  127  ls
+  128  cd ..
+  129  ls
+  130  cd Fundamentos-do-Desenvolvimento-Web/
+  131  ls
+  132  ls -l
+  133  git status
+  134  mkdir trybe-exercicios
+  135  ls
+  136  cd trybe-exercicios/
+  137  mkdir Fundamentos
+  138  cd Fundamentos/
+  139  mkdir bloco2
+  140  cd bloco2/
+  141  history
+  142  history | tail -143 | cat > historico2.1.txt
+  143  ls
+  144  ls -l
+  145  chmod +x historico2.1.txt 
+  146  ls -l
+  147  cd ..
+  148  git status
+  149  git add trybe-exercicios/
+  150  git status
+  151  git commit -m " Adicionado o diretório trybe-exercicios"
+  152  git status
+  153  git push
+  154  git status
+  155  git push
+  156  git status
+  157  git push
+  158  git status
+  159  git push
+  160  cd Fundamentos-do-Desenvolvimento-Web/
+  161  git status
+  162  git push
+  163  git status
+  164  cd Fundamentos-do-Desenvolvimento-Web/
+  165  git status
+  166  git push
+  167  git reset --hard HEAD~1
+  168  ls
+  169  git status
+  170  ls
+  171  clear
+  172  sudo apt update
+  173  sudo apt upgrade
+  174  clear
+  175  cd ..
+  176  ls
+  177  cd rannerbarbosa/
+  178  ls
+  179  rm -rf Fundamentos-do-Desenvolvimento-Web/
+  180  ls
+  181  git status
+  182  git clone git@github.com:Ranner106/Fundamentos-do-Desenvolvimento-Web.git
+  183  ls
+  184  cd Fundamentos-do-Desenvolvimento-Web/
+  185  mkdir trybe-exercicios
+  186  cd trybe-exercicios/
+  187  mkdir fundamentos
+  188  cd fundamentos/
+  189  mkdir bloco2
+  190  cd bloco2/
+  191  history | tais -165 | cat > historico2.1.txt
+  192  history | tail -165 | cat > historico2.1.txt
