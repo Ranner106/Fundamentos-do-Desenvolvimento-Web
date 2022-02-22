@@ -1,0 +1,100 @@
+  185  mkdir trybe-exercicios
+  186  cd trybe-exercicios/
+  187  mkdir fundamentos
+  188  cd fundamentos/
+  189  mkdir bloco2
+  190  cd bloco2/
+  191  history | tais -165 | cat > historico2.1.txt
+  192  history | tail -165 | cat > historico2.1.txt
+  193  cd .. .. ..
+  194  cd ..
+  195  git status
+  196  git add trybe-exercicios/
+  197  cd trybe-exercicios/
+  198  cd fundamentos/
+  199  cd bloco2/
+  200  ls
+  201  ls -l
+  202  chmod +x historico2.1.txt 
+  203  ls -l
+  204  cd ..
+  205  git status
+  206  git add trybe-exercicios/
+  207  git status
+  208  git commit -m " Adicionado o diretório Fundamentos de Desenvolvimento Web"
+  209  git status
+  210  git branch
+  211  git push -u origin main
+  212  ls
+  213  cd Fundamentos-do-Desenvolvimento-Web/
+  214  cat > .gitignore
+  215  cat .ignore
+  216  cat .gitignore
+  217  git status
+  218  git add .gitignore
+  219  git status
+  220  git push
+  221  touch habilidades.txt
+  222  ls
+  223  git status
+  224  git commit -am "Adicionado Habilidades.txt"
+  225  git add habilidades.txt 
+  226  git status
+  227  git commit -m "Adicionado o arquivo Habilidades"
+  228  git push
+  229  git branch trybe-skills-changes
+  230  git checkout
+  231  git checkout trybe-skills-changes
+  232  git branch
+  233  cat > habilidades.txt 
+  234  clear
+  235  git status
+  236  git add habilidades.txt 
+  237  git commit -m " Fazendo meus execícios"
+  238  git branch
+  239  git push -u origin trybe-skills-changes 
+  240  clear
+  241  git checkout main
+  242  git branch
+  243  git branch trybe-skills-updates
+  244  git checkout trybe-skills-updates
+  245  git branch
+  246  code .
+  247  git checkout main
+  248  code .
+  249  git branch
+  250  git checkout trybe-skills-updates 
+  251  clear
+  252  git branch
+  253  code .
+  254  git push  origin trybe-skills-updates  --delete
+  255  git branch -d trybe-skills-updates 
+  256  git checkout main
+  257  git branch -d trybe-skills-updates 
+  258  git push origin --delete trybe-skills-updates
+  259  git push origin trybe-skills-updates --delete
+  260  clear
+  261  git branch
+  262  git branch trybe-skills-updates
+  263  git checkout trybe-skills-updates 
+  264  code .
+  265  git add habilidades.txt 
+  266  git status
+  267  git commit -m "Adicão de Habilidades na banch updates" 
+  268  git push -u origin trybe-skills-updates
+  269  clear
+  270  git branch -d trybe-skills-updates 
+  271  git checkout main
+  272  git branch -d trybe-skills-updates
+  273  git branch -d trybe-skills-changes 
+  274  git push origin trybe-skills-updates --delete
+  275  git push origin trybe-skills-changes --delete
+  276  ls
+  277  cd trybe-exercicios/
+  278  ls
+  279  cd fundamentos/
+  280  ls
+  281  cd bloco2/
+  282  ls
+  283  history
+  284  history | tail -100 | cat > historico2.2.txt
